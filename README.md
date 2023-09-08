@@ -1,8 +1,7 @@
 # Recommender Systems
 
 A study was conducted to develop different recommender systems on a three-year customer-product relationship data. SimpleSVD, NormalSVD, MidUserSVD, MidItemSVD, MidTotalSVD, KNN, KMeans, RFM analysis, MBA and Apriori techniques were used.
-
-
+## Article: https://ybsansiklopedi.com/cilt-12-sayi-1-ocak-2024/
 ## Designed Recommendation Systems
 
 1. Popularity-based Recommender System
